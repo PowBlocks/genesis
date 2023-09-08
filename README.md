@@ -1,2 +1,2 @@
-# genesis
+# PowBlocks mainnet genesis
  
